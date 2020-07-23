@@ -1,0 +1,15 @@
+
+Payment: $91.21, Tax: 8.25%
+Payment: 91.21, Tax: 8.25
+$91.21/8.25%
+91.21, 8.25
+
+int month = ?
+int tax = ?
+Please, create Regex
+
+
+Alex, 
+
+Video Lab #29...Video is cut (not full) so we have just 8 minutes of doing the HW_48...in video... 
+Do you have another(second part) one or that’s all we unfortunately have?  
